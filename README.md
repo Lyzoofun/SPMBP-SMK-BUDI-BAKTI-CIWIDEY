@@ -1,4 +1,4 @@
-# 🏫 SPMBP—SMK-Budi-Bakti-Ciwidey
+# 🏫 Dashboard PPDB — SMK Budi Bakti Ciwidey
 
 
 
@@ -33,7 +33,27 @@ Proyek ini dibangun menggunakan arsitektur frontend murni berbasis **Vanilla JS*
 
 
 
-### 3. Grid 8 Fitur Aplikasi
+### 3. Program Keahlian Terakreditasi
+
+Sekolah membuka tiga program keahlian unggulan yang dapat dipilih oleh calon peserta didik baru:
+
+*   🎨 **Desain Komunikasi Visual (DKV)**
+    Berfokus pada pembuatan ilustrasi, sketsa, desain grafis, dan komunikasi visual untuk media digital maupun cetak.
+
+*   📈 **Pemasaran (Bisnis Daring dan Pemasaran / BDP)**
+    Berfokus pada strategi bisnis digital, manajemen penjualan, dan digital marketing di era e-commerce.
+
+*   💻 **Pengembangan Perangkat Lunak dan Gim (PPLG / Rekayasa Perangkat Lunak)**
+    Berfokus pada pemrograman, pembuatan aplikasi, dan pengembangan game berbasis teknologi terkini.
+
+> Informasi lebih lanjut tentang masing-masing jurusan dapat dilihat melalui:
+> - 📸 Instagram Resmi Sekolah: [@info.smkbudibakticiwidey](https://www.instagram.com/info.smkbudibakticiwidey/)
+> - 🔗 Linktree: [linktr.ee/zev134n](https://linktr.ee/zev134n)
+> - 🌐 Portal SPMB Jawa Barat: [informasi-spmb.site](https://informasi-spmb.site/spmb/jawa-barat/sekolah/20227934)
+
+
+
+### 4. Grid 8 Fitur Aplikasi
 
 Grid 4 kolom (responsif menjadi 2 kolom di tablet dan 1 kolom di HP) yang menampilkan seluruh fitur utama dashboard:
 
@@ -48,13 +68,13 @@ Grid 4 kolom (responsif menjadi 2 kolom di tablet dan 1 kolom di HP) yang menamp
 
 
 
-### 4. Bottom CTA Banner
+### 5. Bottom CTA Banner
 
 *   **Spanduk Ajakan Daftar:** Banner gradasi biru-hijau di bagian bawah konten dengan ikon toga 🎓, teks motivasi, dan tombol **"Mulai Daftar"** yang langsung membuka formulir pendaftaran.
 
 
 
-### 5. Sistem Modal Portal
+### 6. Sistem Modal Portal
 
 *   **8 Konten Modal Lengkap:** Setiap fitur membuka jendela modal terpusat yang menarik dengan konten berbeda dan spesifik.
 *   **Animasi Fade Halus:** Modal muncul dan menghilang dengan transisi opacity yang lembut disertai efek *backdrop blur*.
