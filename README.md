@@ -1,4 +1,4 @@
-# 🏫 Dashboard PPDB — SMK Budi Bakti Ciwidey
+# 🏫 SPMBP—SMK-Budi-Bakti-Ciwidey
 
 
 
