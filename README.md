@@ -115,11 +115,15 @@ Grid 4 kolom (responsif menjadi 2 kolom di tablet dan 1 kolom di HP) yang menamp
 
 
 ```bash
-ppdb-dashboard/
-├── index.html          # File Tunggal Dashboard PPDB (All-in-One)
-├── prd.md              # Product Requirement Document    
-└── README.md           # Dokumentasi Utama Proyek (File Ini)
-```
+kokurikuler/
+├── assets/
+│   ├── img/
+│   │   ├── logo-smk.png            # Logo Sekolah Resmi
+│   ├── desktop-uiux.png            # Dokumentasi Mockup Desktop
+│   └── mobile-uiux.png             # Dokumentasi Mockup Mobile
+├── index.html                      # Landing Page Utama SPMB
+├── prd.md                          # Product Requirement Document
+└── README.md                       # Dokumentasi Utama Proyek
 
 
 
